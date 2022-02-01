@@ -1,4 +1,5 @@
-#STUDENT<br>
+#GRADE-APP-main<br>
+
 This is a grading system that stores the information in a MYSQL database,<br>
  created with express and views(ejs);<br>
 
