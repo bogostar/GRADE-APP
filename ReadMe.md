@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS student_grades( <br>
     semester varchar(20) not null,<br>
     grade int null,<br>
     primary key(id)
-);
+);<br>
 
 
 
