@@ -23,7 +23,7 @@ CREATE TABLE IF NOT EXISTS student_grades( <br>
     year int not null,<br>
     semester varchar(20) not null,<br>
     grade int null,<br>
-    primary key(id)<br>  
+    primary key(id)
 );
 
 
