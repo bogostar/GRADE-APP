@@ -15,7 +15,7 @@ And go to http://localhost:3000<br>
 Make sure you run those lines in you mysql workbench: <br>
 and make sure to change to the correct db port in index.js <br>
 create database Courses; <br>
-
+use courses;<br>
 CREATE TABLE IF NOT EXISTS student_grades( <br>
     id INT not null AUTO_INCREMENT, <br>
     course_name varchar(20) not null,<br>
